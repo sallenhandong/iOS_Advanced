@@ -5,9 +5,7 @@ ios进阶篇-定期更新
 最近一直在写博客，想积累积累，所以决定写ios进阶相关的博文，大家一起交流进步，笔者不是什么大神，同样是一名热爱编程的coder，一同学习分享。每篇文章争取以浅显易懂的方式写出高篇幅高质量，当然也希望大家多多投稿，进阶ing。
 
 ### 第一章  iOS多线程详解
-- 多线程面试那些事儿
-- GCD详解
-- NSOperation详解
+- [GCD详解](https://github.com/sallenhandong/iOS_Advanced/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20IOS%E5%A4%9A%E7%BA%BF%E7%A8%8B/iosgcd.md)</br>
 ### 第二章  iOS签名机制
 ### 第三章  Runtime详解
 ### 第四章  Runloop
